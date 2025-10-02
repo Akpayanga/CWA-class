@@ -65,11 +65,11 @@ These fixes made it work end to end.
 Terraform is easy for big setups. One file does VPC, Lambda, all. IAM roles are important, you have to add policies for each service. CORS is annoying but OPTIONS fixes it. Debug with browser console and Lambda logs. For costs, enable Cost Explorer first.
 
 ## Files
-- main.tf: All Terraform setup.
-- variables.tf: Email and threshold.
-- outputs.tf: Links.
-- lambda/cost_tracker.py: Code for get and put costs.
-- frontend/index.html: Webpage with script.
+- main.tf: [All Terraform setup](https://github.com/Akpayanga/CWA-class/blob/923aaf534ed6022e523948109b7ad07088423290/main.tf).
+- variables.tf: [Email and threshold.](https://github.com/Akpayanga/CWA-class/blob/923aaf534ed6022e523948109b7ad07088423290/variable.tf)
+- outputs.tf: [Links.](https://github.com/Akpayanga/CWA-class/blob/923aaf534ed6022e523948109b7ad07088423290/output.tf)
+- lambda/cost_tracker.py: [Code for get and put costs](https://github.com/Akpayanga/CWA-class/blob/923aaf534ed6022e523948109b7ad07088423290/lambda/cost_tracker.py).
+- frontend/index.html: [Webpage with script.](https://github.com/Akpayanga/CWA-class/blob/923aaf534ed6022e523948109b7ad07088423290/frontend/index.html)
 - screenshots:
     - Terraform output:
           <img width="1912" height="970" alt="Screenshot 2025-10-02 092607" src="https://github.com/user-attachments/assets/8b02fe03-32d6-43bd-962e-b7d4e11de7e6" />
