@@ -81,10 +81,9 @@ Terraform is easy for big setups. One file does VPC, Lambda, all. IAM roles are 
           <img width="1897" height="1025" alt="Screenshot 2025-10-02 073610" src="https://github.com/user-attachments/assets/08e436ae-06c0-49fa-8b6e-a65a22b950b0" />
 
 ## Links Example
-- Webpage: https://d27h70zyrrzej8.cloudfront.net
-- API: https://6xi3acwttj.execute-api.us-east-1.amazonaws.com/prod/cost
+[X post : ](https://x.com/Billionaire_Ade/status/1973754537392717832)
 
 ## LinkedIn Post
-[Link: https://www.linkedin.com/posts/your-post]
+ [LinkedIn:](https://www.linkedin.com/posts/daniel-akpayanga_terraform-aws-cloudcomputing-activity-7379518904915726336-ALr1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACJdiqMB59y0T6smVF4__4ekStqfwVz1ONA)
 
 Thanks.
