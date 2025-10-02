@@ -80,7 +80,7 @@ Terraform is easy for big setups. One file does VPC, Lambda, all. IAM roles are 
     - Dashboard (index.html):
           <img width="1897" height="1025" alt="Screenshot 2025-10-02 073610" src="https://github.com/user-attachments/assets/08e436ae-06c0-49fa-8b6e-a65a22b950b0" />
 
-## Links Example
+## X (Twitter) post
 [X post : ](https://x.com/Billionaire_Ade/status/1973754537392717832)
 
 ## LinkedIn Post
