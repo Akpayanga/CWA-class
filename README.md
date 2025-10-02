@@ -22,7 +22,7 @@ Looking at the Diagram:
 
 The purple VPC section contains SNS, CloudWatch, EventBridge, Lambda, and DynamoDB. Outside the VPC, the API Gateway communicates with Lambda to fetch data, while S3 and CloudFront work together to deliver the webpage to the user.
 
-https://github.com/user-attachments/assets/cadd5af2-3809-4112-974a-22263645189c
+![Architecturea Diagram](https://github.com/user-attachments/assets/c0db03e6-1385-4e36-aaa6-1000c9322a5c)
 
 ## How to Set Up
 1. Get Terraform and AWS CLI.
